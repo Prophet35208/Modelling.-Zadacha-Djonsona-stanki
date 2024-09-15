@@ -1,0 +1,8 @@
+﻿  Modelling. Zadacha Djonsona stanki.cpp
+D:\7 kurs programs\Modelling. Zadacha Djonsona stanki\Modelling. Zadacha Djonsona stanki\Modelling. Zadacha Djonsona stanki.cpp(98,33): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\7 kurs programs\Modelling. Zadacha Djonsona stanki\Modelling. Zadacha Djonsona stanki\Modelling. Zadacha Djonsona stanki.cpp(99,36): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\7 kurs programs\Modelling. Zadacha Djonsona stanki\Modelling. Zadacha Djonsona stanki\Modelling. Zadacha Djonsona stanki.cpp(217,9): warning C4101: mas_prost: неиспользованная локальная переменная
+D:\7 kurs programs\Modelling. Zadacha Djonsona stanki\Modelling. Zadacha Djonsona stanki\Modelling. Zadacha Djonsona stanki.cpp(324,13): warning C4101: end: неиспользованная локальная переменная
+D:\7 kurs programs\Modelling. Zadacha Djonsona stanki\Modelling. Zadacha Djonsona stanki\Modelling. Zadacha Djonsona stanki.cpp(417,17): warning C4101: end: неиспользованная локальная переменная
+D:\7 kurs programs\Modelling. Zadacha Djonsona stanki\Modelling. Zadacha Djonsona stanki\Modelling. Zadacha Djonsona stanki.cpp(489,17): warning C4101: end: неиспользованная локальная переменная
+  Modelling. Zadacha Djonsona stanki.vcxproj -> D:\7 kurs programs\Modelling. Zadacha Djonsona stanki\x64\Debug\Modelling. Zadacha Djonsona stanki.exe
